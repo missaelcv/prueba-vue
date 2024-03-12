@@ -10,6 +10,7 @@ import TheWelcome from './components/TheWelcome.vue'
     <div class="wrapper">
       <HelloWorld msg="Ejmplo para Prueba de ramas" />
       <HelloWorld msg="Ejmplo para Prueba de ramas" />
+      <HelloWorld msg="Ejmplo para Prueba de ramas" />
     </div>
   </header>
 
